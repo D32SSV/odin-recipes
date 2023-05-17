@@ -9,5 +9,4 @@ The skill include the following:-
 
 1.Defining DOCTYPE
 
-2.Using various elements like <h1> for heading, <p> for paragraph
-<ul> for unordered list etc.
+2.Using various elements like for heading, paragraph, unordered list, strong and em keywords etc.
